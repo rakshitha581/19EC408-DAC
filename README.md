@@ -88,6 +88,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ## Model Graph
 
 *(Insert graph/diagram here if available)*
+![sawtooth waveform](https://github.com/user-attachments/assets/abbc0d5e-4578-4e4c-9e40-5f5a48b8b767)
+![square waveform](https://github.com/user-attachments/assets/55d9bf53-8c20-4e59-ac41-163c9cbe523c)
 
 
 
